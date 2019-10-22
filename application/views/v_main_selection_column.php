@@ -30,7 +30,7 @@
         <table>
             <tr>
                 <td>Pilih Tabel</td>
-                <td>Pilih Kolom</td>
+                <td>Daftar Kolom</td>
             </tr>
             <tr>
                 <td>
